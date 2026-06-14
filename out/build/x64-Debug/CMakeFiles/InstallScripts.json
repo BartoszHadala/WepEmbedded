@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/out/build/x64-Debug/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/out/build/x64-Debug/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/out/build/x64-Debug/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

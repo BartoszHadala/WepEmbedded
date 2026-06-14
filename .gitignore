@@ -1,0 +1,8 @@
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.db
+*.db-shm
+*.db-wal

@@ -1,0 +1,11 @@
+# ninja log v7
+95	1869	8031589312434723	CMakeFiles/wep_lib.dir/web_crypto.cpp.obj	56750308e0b9ee68
+81	1881	8031589312300598	CMakeFiles/wep_lib.dir/ring_buffer.cpp.obj	5dafbfb11c1ea3d4
+109	1969	8031589312563843	CMakeFiles/wep_lib.dir/web_auth.cpp.obj	7795b9a5f86ff5ec
+1971	2374	8031589331199727	wep_lib.lib	bd9d17bdedefcd9a
+126	5224	8031589312744783	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	fc0e74cad0120474
+155	5709	8031589313040805	CMakeFiles/run_tests.dir/test_all.cpp.obj	e0485e1a7a40d11b
+59	9223	8031589312073204	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	341fe48328e2c67
+9228	9398	8031589403735694	lib/gtest.lib	648c0bc8266cf537
+9398	9503	8031589405389815	lib/gtest_main.lib	62efbf6f0d9baca9
+9504	10719	8031589406510957	run_tests.exe	aaf567d0a60e6c87
