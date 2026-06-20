@@ -1,0 +1,4 @@
+C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/PC/build/CMakeFiles/wep_pc.dir
+C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/PC/build/CMakeFiles/wep_security_pc.dir
+C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/PC/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lenovo/OneDrive/Pulpit/WEP_Security/PC/build/CMakeFiles/ZERO_CHECK.dir

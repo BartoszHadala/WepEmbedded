@@ -275,6 +275,10 @@ bool PcAuth_VerifyResponse(PcAuthContext *ctx,
         return false;
     }
 
+    if (frame->payloadLen != ctx->challengeLen + WEP_ICV_LEN) {
+        return false;
+    }
+    
     WepCrypto_SetIV(&ctx->crypto, frame->iv); 
 
     uint8_t decrypted[PC_AUTH_CHALLENGE_LEN]; //tablica na odszyfrowany challenge
